@@ -2,12 +2,20 @@
 
 Python ETL pipeline with Airflow on AWS EC2 Data Engineering Project
 
-[Architecture Diagram]
 
-[DAG Graph]
+## Architecture Diagram
+![Architecture Diagram](https://github.com/CCJH23/etl-pipeline-airflow-awsec2-data-engineering/blob/f665ebda175f9525e96d8ffc2dbf298f4ba5dd33/img/architecture_diagram.png)
 
-Process
 
+## Airflow DAG Graph
+![DAG Graph](https://github.com/CCJH23/etl-pipeline-airflow-awsec2-data-engineering/blob/f665ebda175f9525e96d8ffc2dbf298f4ba5dd33/img/dag_graph.png)
+
+
+## Final csv File
+![Final csv File](https://github.com/CCJH23/etl-pipeline-airflow-awsec2-data-engineering/blob/f665ebda175f9525e96d8ffc2dbf298f4ba5dd33/img/csv_file.png)
+
+
+## Process
 1. Download Airflow in Amazon EC2
 2. SSH into EC2 to launch Airflow and create DAGs
 3. Create a DAG in Airflow
