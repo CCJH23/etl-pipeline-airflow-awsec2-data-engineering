@@ -16,7 +16,7 @@ Python ETL pipeline with Airflow on AWS EC2 Data Engineering Project
 
 
 ## OpenWeatherMap API Used
-[OpenWeatherMap API]([url](https://openweathermap.org/api))
+[OpenWeatherMap API](https://openweathermap.org/api)
 
 
 ## Process
