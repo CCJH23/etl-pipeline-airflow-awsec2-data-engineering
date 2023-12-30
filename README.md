@@ -1,10 +1,17 @@
-# Python ETL Pipeline with Airflow and AWS EC2 Data Engineering Project
+# Python ETL Pipeline with Airflow, AWS EC2 and S3 Data Engineering Project
 
-Python ETL pipeline with Airflow on AWS EC2 Data Engineering Project
+Python ETL pipeline with Airflow, AWS EC2 and S3 Data Engineering Project
 
 
 ## Architecture Diagram
 ![Architecture Diagram](https://github.com/CCJH23/etl-pipeline-airflow-awsec2-data-engineering/blob/f665ebda175f9525e96d8ffc2dbf298f4ba5dd33/img/architecture_diagram.png)
+
+
+## Technologies Used
+1. Python 
+2. Pandas
+3. Airflow deployed in AWS EC2
+4. AWS S3
 
 
 ## Airflow DAG Graph
