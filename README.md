@@ -10,7 +10,7 @@ Python ETL pipeline with Airflow, AWS EC2 and S3 Data Engineering Project
 ## Technologies Used
 1. Python 
 2. Pandas
-3. Airflow deployed in AWS EC2
+3. Apache Airflow deployed in AWS EC2
 4. AWS S3
 
 
